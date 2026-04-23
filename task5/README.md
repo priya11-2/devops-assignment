@@ -38,3 +38,6 @@ sudo ufw status verbose
 
 ## Screenshot
 
+<img width="889" height="823" alt="task5" src="https://github.com/user-attachments/assets/cc55cfff-69f6-4dfa-9023-dd6582459088" />
+
+
