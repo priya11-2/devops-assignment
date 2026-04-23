@@ -37,3 +37,5 @@ cat /opt/container-monitor/logs/monitor.log
 [2026-04-23 10:33:01] STATUS: RUNNING | CPU: 0.00% | MEM: 3.328MiB / 911.5MiB | MEM%:0.37%
 
 ## Screenshot
+<img width="1317" height="826" alt="task3" src="https://github.com/user-attachments/assets/9a11a8a4-ac6f-4d4e-a466-caa89121d296" />
+
