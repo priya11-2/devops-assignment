@@ -33,7 +33,7 @@ Project-Submission/
 | Task 5 | UFW Firewall rules | Done |
 
 ## Walkthrough Video
-[Link: (https://drive.google.com/file/d/1rPC2vCpHIu8FSil5u6nRyscttYK_CjnA/view?usp=sharing)
+https://drive.google.com/file/d/1rPC2vCpHIu8FSil5u6nRyscttYK_CjnA/view?usp=sharing
 
 ## Author
 Priya
