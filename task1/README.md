@@ -33,3 +33,5 @@ cat ~/.ssh/authorized_keys
 - PasswordAuthentication set to no
 
 ## Screenshot
+<img width="1270" height="694" alt="task1" src="https://github.com/user-attachments/assets/a061a900-e149-4bff-a4b2-67255fa2127a" />
+
