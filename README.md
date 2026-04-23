@@ -10,7 +10,9 @@ assignment completed on AWS EC2.
 - Services: Docker, UFW, Cron
 
 ## Repository Structure
+
 Project-Submission/
+
 ├── Task-1/   # SSH Configuration
 ├── Task-2/   # Docker Deployment
 ├── Task-3/   # Container Monitoring
