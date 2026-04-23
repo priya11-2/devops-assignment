@@ -20,14 +20,14 @@ Project-Submission/
 ## Tasks Summary
 | Task | Description | Status |
 |------|-------------|--------|
-| Task 1 | SSH Key Authentication | ✅ Done |
-| Task 2 | Docker + Web App on port 8000 | ✅ Done |
-| Task 3 | Automated monitoring with cron | ✅ Done |
-| Task 4 | Dedicated user + permissions | ✅ Done |
-| Task 5 | UFW Firewall rules | ✅ Done |
+| Task 1 | SSH Key Authentication | Done |
+| Task 2 | Docker + Web App on port 8000 | Done |
+| Task 3 | Automated monitoring with cron | Done |
+| Task 4 | Dedicated user + permissions | Done |
+| Task 5 | UFW Firewall rules | Done |
 
-## 📹 Walkthrough Video
-
+## Walkthrough Video
+Link: (add after recording)
 
 ## Author
-Priya Wagh
+Priya
